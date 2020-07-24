@@ -1,0 +1,14 @@
+experiments they have the past data
+trial is done just once. one outcome from the experiment. 
+outcome - sample space, all possible outcomes;
+event - happend once
+subjective - stock market coulbe be subjective if I chose what's going to happen. We'll all graduate well the data science course.
+classical - bingo
+empirical - USA independence day
+
+
+descriptive summaraizes the data set. 
+inferential based on the probability. Men is taller than a woman. measured most women and men. drawing conclusions
+about all, but pulling randomly 100, educated guess. 
+
+Bayesian statistics upgrades the info based on the customer's needs and frequentist always updates. 
